@@ -1,3 +1,7 @@
 repeat wait() until game:IsLoaded() and game.Players.LocalPlayer 
 getgenv().Key = "4b2818d75975b118ec144003" 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/obiiyeuem/vthangsitink/main/BananaHub.lua"))()
+
+getgenv().Key = "MARU-JTIC8-X7JXI-HNA9-2AZM-PXYK"
+getgenv().id = "1026033937052606524"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xshiba/MaruBitkub/main/Mobile.lua"))()
