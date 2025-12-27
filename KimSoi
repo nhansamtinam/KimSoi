@@ -1,3 +1,3 @@
-https://www.mediafire.com/file/tl05btozz4riuj3/Chim+Đậu+Trên+Cành,Trần+Trọng+Kim+11A2.svg/file
-https://vn.pikbest.com/video/nature-beautiful-sunset-twilight-sky-changes-4k-time-lapse_6405048.html
-https://play.google.com/store/apps/details?id=stprowallpaper.YellowColorWallpapers.th&hl=vi
+repeat wait() until game:IsLoaded() and game.Players.LocalPlayer 
+getgenv().Key = "4b2818d75975b118ec144003" 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/obiiyeuem/vthangsitink/main/BananaHub.lua"))()
